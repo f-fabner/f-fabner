@@ -58,11 +58,11 @@ Outside of my professional field, I have a keen interest in various technology a
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## - Socials 📟
-![[Instagram](https://www.instagram.com/fdoisgs/)](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![[LinkedIn](https://www.linkedin.com/in/fernandofabner/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![[Facebook](https://www.facebook.com/fernando.gomesdasilva.9/)](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![134491577614598144](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+<div>
+<a href="https://www.instagram.com/fdoisgs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fernandofabner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.facebook.com/fernando.gomesdasilva.9" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+<a href="https://cdn.discordapp.com/attachments/810649385061842944/1151551988140613794/Imagem_do_WhatsApp_de_2023-09-13_as_13.14.34.jpg" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 
 
