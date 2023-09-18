@@ -64,6 +64,6 @@ Outside of my professional field, I have a keen interest in various technology a
 <a href="https://www.linkedin.com/in/fernandofabner/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/fernando.gomesdasilva.9" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 <a href="https://cdn.discordapp.com/attachments/810649385061842944/1151551988140613794/Imagem_do_WhatsApp_de_2023-09-13_as_13.14.34.jpg" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
+<a href="https://exercism.org/profiles/f-fabner" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
 
 
